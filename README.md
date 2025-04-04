@@ -9,7 +9,7 @@ A **simple console-based banking application** built with Java to perform basic 
 
 ## 📽️ Demo
 
-🎬 [Watch the Demo Video](#) *(https://www.linkedin.com/posts/dibyadyutidas_java-bankapp-studentproject-activity-7313801928314896384-y6p9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEx7obYBAnkpwP6U5C3pdGch2tNmuvy3gRY)*
+🎬 [Watch the Demo Video](https://www.linkedin.com/posts/dibyadyutidas_java-bankapp-studentproject-activity-7313801928314896384-y6p9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEx7obYBAnkpwP6U5C3pdGch2tNmuvy3gRY)
 
 ---
 
